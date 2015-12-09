@@ -1,0 +1,11 @@
+README.rst
+TUI/__init__.py
+TUI/settings.py
+TUI/urls.py
+TUI/wsgi.py
+TUI.egg-info/PKG-INFO
+TUI.egg-info/SOURCES.txt
+TUI.egg-info/dependency_links.txt
+TUI.egg-info/not-zip-safe
+TUI.egg-info/requires.txt
+TUI.egg-info/top_level.txt
